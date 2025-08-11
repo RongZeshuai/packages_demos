@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "app_list.h": "c",
+        "clock_index.h": "c",
+        "utils.h": "c",
+        "clock_view.h": "c",
+        "timer.h": "c",
+        "math.h": "c",
+        "time.h": "c",
+        "controlcenterscreen.h": "c",
+        "message.h": "c",
+        "main_page.h": "c",
+        "timer_main.h": "c",
+        "choose_dial.h": "c",
+        "contrlocenterimage.h": "c",
+        "controlcenterpresenter.h": "c"
+    }
+}
